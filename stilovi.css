@@ -1,0 +1,22 @@
+h1 {
+    color: maroon;
+    background-color: saddlebrown;
+    text-align: center;
+}
+h2{
+    color: rgb(240, 166, 131);
+    background-color: maroon;
+}
+ p {
+     font-size: 14pt;
+ }
+ #autor{
+     color: rgb(99, 42, 7);
+     text-align: right;
+ }
+ 
+.centar{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        }
